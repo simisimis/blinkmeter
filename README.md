@@ -25,4 +25,5 @@ Electricity meter blink counter nodemcu lua code for ESP8266.
 - upload files through esplorer.
 
 
-#### thanks to [vonneudeck](https://github.com/vonneudeck/mouldy). Used his way of connecting to wifi/exposing stats for prometheus
+#### thanks to [vonneudeck](https://github.com/vonneudeck/mouldy). 
+Used his way of connecting to wifi/exposing stats for prometheus
