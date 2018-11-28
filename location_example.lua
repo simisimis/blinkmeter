@@ -1,0 +1,2 @@
+ssid = "rearcrack"
+wifipassword = "DoNotEnter"
