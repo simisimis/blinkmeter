@@ -23,3 +23,6 @@ Electricity meter blink counter nodemcu lua code for ESP8266.
 ### Upload lua files
 - move location_example.lua to location.lua and change to your ssid/psk
 - upload files through esplorer.
+
+
+#### thanks to [vonneudeck](https://github.com/vonneudeck/mouldy). Used his way of connecting to wifi/exposing stats for prometheus
